@@ -15,7 +15,7 @@ var image = {
     img_url: undefined, //preview image url (best case 700px)
     img_width: undefined,
     img_height: undefined,
-    nnative_url: undefined, // best quality
+    native_url: undefined, // best quality
     native_width: undefined,
     native_height: undefined,
     source: undefined, //different payload
